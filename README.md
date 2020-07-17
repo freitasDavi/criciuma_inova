@@ -1,5 +1,5 @@
 <h1 allign="center">
-    <img src="inova_gif.gif">
+    <img src="inova_gif2.gif">
 </h1>
 
 #     Indice
