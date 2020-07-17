@@ -9,7 +9,9 @@
 ---
 
 ## 📖     Sobre
+
 Projeto **Inova Criciúma** criado durante o estágio não obrigatório na Prefeitura Municipal de Criciúma com o intuito de modernizar o site do Programa Inova Criciúma e dar novas funcionalidades e funções para o Site
+
 ---
 
 ## 🚀     Tecnologias utilizadas
@@ -23,7 +25,5 @@ O Projeto foi desenvolvidos utlizando as seguintes tecnologias
 
 --- 
 
-
---- 
 
 # Desenvolvido por Davi Freitas - TKN
